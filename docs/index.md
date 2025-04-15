@@ -34,6 +34,12 @@ A short example of a player journal file (_**out of date, some events may have a
 
 ### ChangeLog
 
+**Version 38**
+
+**Changes for Odyssey up to release 4.1.0.3 (April 7th 2025)**
+
+-  The ColonisationConstructionDepot and ColonisationContribution events are now written to the journal to allow tracking the progress and contributions of colonisation activities.
+
 **Version 37**
 
 **Changes for Odyssey up to update14 (May 2023)**
